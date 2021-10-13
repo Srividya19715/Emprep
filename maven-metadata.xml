@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>scneario4</groupId>
+  <artifactId>maven-scenario4</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20211013075118</lastUpdated>
+  </versioning>
+</metadata>
